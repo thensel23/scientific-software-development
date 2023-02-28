@@ -1,0 +1,1 @@
+conda environment: conda activate ssd-course
