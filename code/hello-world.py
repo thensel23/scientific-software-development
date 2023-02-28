@@ -5,6 +5,5 @@ File test to initialize repository.
 '''
 
 
-if __name__=='__main__':
-
-    print('hello world')
+#%%
+print('hello world')
